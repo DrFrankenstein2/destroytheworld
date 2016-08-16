@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1119A7851D636B3C0092FF88 /* DestroyTheWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DestroyTheWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1119A7851D636B3C0092FF88 /* DestroyTheWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = DestroyTheWorld.app; path = "/Users/Franki/Desktop/DestroyTheWorld/build/Debug-iphoneos/DestroyTheWorld.app"; sourceTree = "<absolute>"; };
 		1119A7881D636B3C0092FF88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1119A78A1D636B3C0092FF88 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1119A78D1D636B3C0092FF88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -39,16 +39,7 @@
 			isa = PBXGroup;
 			children = (
 				1119A7871D636B3C0092FF88 /* DestroyTheWorld */,
-				1119A7861D636B3C0092FF88 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		1119A7861D636B3C0092FF88 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				1119A7851D636B3C0092FF88 /* DestroyTheWorld.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		1119A7871D636B3C0092FF88 /* DestroyTheWorld */ = {
@@ -109,7 +100,7 @@
 				Base,
 			);
 			mainGroup = 1119A77C1D636B3C0092FF88;
-			productRefGroup = 1119A7861D636B3C0092FF88 /* Products */;
+			productRefGroup = 1119A77C1D636B3C0092FF88;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -299,6 +290,7 @@
 				1119A7991D636B3C0092FF88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
